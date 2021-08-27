@@ -6,9 +6,9 @@ Description : An RFID reader emits a low-level radio frequency magnetic field th
 
 Working : 
 
-Tools used : Hardware - Raspberry pi Model 3B+, RFID RC522 Sensor, Breadboard, Jumper Wires, WIFI for Internet Connectivity
-Operating system - Raspberry pi os (It’s a Debian based os runs on linux kernel)
-Software - Python (Programming Language)
-Project Environment - Python Virtual Environment
-Libraries - GPIO, SimpleMFRC522
-Database - Sqlite3
+Tools used : Hardware - Raspberry pi Model 3B+, RFID RC522 Sensor, Breadboard, Jumper Wires, WIFI for Internet Connectivity <br />
+Operating system - Raspberry pi os (It’s a Debian based os runs on linux kernel) <br />
+Software - Python (Programming Language) <br />
+Project Environment - Python Virtual Environment <br />
+Libraries - GPIO, SimpleMFRC522 <br />
+Database - Sqlite3 <br />
