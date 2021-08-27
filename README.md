@@ -8,7 +8,7 @@ Working :
 
 Tools used : Hardware - Raspberry pi Model 3B+, RFID RC522 Sensor, Breadboard, Jumper Wires, WIFI for Internet Connectivity <br />
 Operating system - Raspberry pi os (It’s a Debian based os runs on linux kernel) <br />
-Software - Python (Programming Language) <br />
+Programming Language - Python <br />
 Project Environment - Python Virtual Environment <br />
 Libraries - GPIO, SimpleMFRC522 <br />
 Database - Sqlite3 <br />
